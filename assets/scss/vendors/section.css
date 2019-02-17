@@ -1,0 +1,72 @@
+.nav-bar{
+   background-color: #F7F7F7;
+   font-size: 12px;
+}
+.primary-btn{
+  background-color: #3100AB; 
+  color: #ffffff;
+}
+.btn {
+    border-radius: 5px;
+    padding: 5px 25px;
+    font-size: 12px;
+}
+
+.section {
+    width: 80%;
+    height: max-content;
+
+}
+.section-content{
+    background-color: #E6E6E6;
+    padding:16px;
+}
+.icon-size {
+    padding: 8px;
+}
+.icon-size::before {
+    font-size: 63px;
+}
+.section-row {
+    color: white;
+    margin: 13px;
+    border-radius: 5px;
+    padding: 12px;
+}
+.piggy {
+    background-color: #3D6EDB;
+}
+.analytics{
+    background-color: #8D26BE;
+}
+.team{
+    background-color: #E200C5;
+}
+.money{
+    background-color: #F12C7B;
+}
+.piggy-content {
+    padding: 14px;
+    font-size: 13px;
+}
+
+.percent-text {
+    font-size: 47px;
+    font-weight: 900;
+    line-height: 0.9;
+}
+
+.table-content{
+    background-color: white;
+    padding: 20px 16px;
+    border-radius: 7px;
+    width: 50%;
+}
+
+.nav-bar-heading{
+    padding-left: 32px;
+}
+
+.nav-bar-buttons{
+    padding-right: 32px;
+}

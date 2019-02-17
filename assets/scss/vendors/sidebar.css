@@ -1,0 +1,19 @@
+.sidebar {
+    width: 20%;
+}
+.sidebar-row{
+    border-bottom: 1px solid #ECECEC;
+    padding: 8px;
+    font-size: 12px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.sidebar-icon::before {
+    font-size: 25px;
+    color: #DEDEDE;
+    padding: 8px;
+}
+.sidebar-text {
+    font-size: 10px;
+    padding: 10px 10px 0px 10px;
+}

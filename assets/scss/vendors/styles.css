@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+.flex-no-wrap{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.flex-even-space{
+    display: flex;
+    justify-content: space-evenly;
+}
