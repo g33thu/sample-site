@@ -19,17 +19,17 @@
 }
 .section-content{
     background-color: #E6E6E6;
-    padding:16px;
+    padding:23px;
 }
 .icon-size {
     padding: 8px;
 }
 .icon-size::before {
-    font-size: 63px;
+    font-size: 71px;
 }
 .section-row {
     color: white;
-    margin: 13px;
+    margin: 8px;
     border-radius: 5px;
     padding: 12px;
 }
